@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Summafy.git
+   git clone https://github.com/VSupunK/Summafy-AI-Article-Summarizer.git
    cd Summafy
 
    ```
