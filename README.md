@@ -1,6 +1,6 @@
 # Summafy
 
-<link href="https://Summafy.netlify.app/"><img src="/src/assets/SummafyLogoIco.png" alt="Homepage Screenshot" width="150" /> </link>
+<a href="https://Summafy.netlify.app/"><img src="/src/assets/SummafyLogoIco.png" alt="Homepage Screenshot" width="150" /> </a>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e7920b55-e9c3-464b-ac18-44dfc968750a/deploy-status)](https://app.netlify.com/sites/summafy/deploys)
 
