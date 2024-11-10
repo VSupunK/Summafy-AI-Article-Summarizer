@@ -93,7 +93,7 @@
 }
 
 .submit_btn {
-  @apply hover:border-gray-700 hover:text-gray-700 absolute inset-y-0 right-0 my-1.5 mr-1.5 flex w-20 items-center justify-center rounded border border-gray-200 font-sans text-sm font-medium text-gray-400;
+  @apply hover:border-gray-700 hover:text-gray-700 absolute inset-y-0 right-0 my-1.5 mr-1.5 flex w-20 items-center justify-center rounded border border-gray-200 font-sans text-sm font-medium text-gray-400 bg-white ;
 }
 
 .link_card {
@@ -109,5 +109,33 @@
 }
 
 .summary_box {
-  @apply rounded-xl border border-gray-200 bg-white/20 shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.2)] backdrop-blur p-4;
+  @apply rounded-xl border border-gray-200 bg-white/20 shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.8)] backdrop-blur p-4;
+}
+
+@keyframes typing {
+  0% {
+    width: 0;
+  }
+  70% {
+    width: 100%;
+  }
+  90% {
+    width: 100%; /* Pause at full width */
+  }
+  100% {
+    width: 0; /* Reset width back to 0 */
+  }
+}
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.typing-effect {
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 3px solid;
+  animation: typing 4s steps(30, end) infinite, blink 0.7s step-end infinite;
 }

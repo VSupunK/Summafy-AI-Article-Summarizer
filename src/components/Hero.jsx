@@ -20,6 +20,13 @@ const Hero = () => {
         </button>
       </nav>
 
+      <h1 className="head_text green_gradient font-medium text-[50pt] typing-effect">
+        SUMMARFY
+      </h1>
+      <h2 className="text-xl font-satoshi tracking-widest">
+        EFFICIENTLY SIMPLIFY CONTENT
+      </h2>
+
       <h1 className="head_text">
         Summarize Your Article with <br className="max-md:hidden" />
         <span className="green_gradient">OpenAI GPT-4</span> Simply
