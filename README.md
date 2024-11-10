@@ -73,7 +73,7 @@ The app will run on http://localhost:5173/ by default.
 ## Project Structure
 
 ```bash
-summarfy/
+Summafy-AI-Article-Summarizer/
 ├── public/ # Static assets
 ├── src/
 │ ├── assets/ # Icons and images
