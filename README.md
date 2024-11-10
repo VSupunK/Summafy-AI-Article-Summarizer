@@ -70,6 +70,7 @@ The app will run on http://localhost:5173/ by default.
 
 ## Project Structure
 
+```bash
 summarfy/
 ├── public/ # Static assets
 ├── src/
@@ -80,6 +81,7 @@ summarfy/
 │ ├── App.jsx # Main App component
 │ └── main.jsx # React entry point
 └── README.md # Project documentation
+```
 
 ## Screenshots
 
