@@ -87,15 +87,15 @@ summarfy/
 
 ### Home Page
 
-![Homepage Screenshot](/src/assets/screenshots/Screenshot1.png)
+![Homepage Screenshot](/src/assets/Screenshots/Screenshot1.png)
 
 ### URL Uploading
 
-![URL Uploading Screenshot](/src/assets/screenshots/Screenshot2.png)
+![URL Uploading Screenshot](/src/assets/Screenshots/Screenshot2.png)
 
 ### Summarized Article
 
-![Summarized Article Screenshot](/src/assets/screenshots/Screenshot3.png)
+![Summarized Article Screenshot](/src/assets/Screenshots/Screenshot3.png)
 
 ## Contributing
 
