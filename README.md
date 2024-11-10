@@ -1,12 +1,12 @@
-# Summarfy
+# Summafy
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_BADGE_ID/deploy-status)](https://summarfy.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e7920b55-e9c3-464b-ac18-44dfc968750a/deploy-status)](https://app.netlify.com/sites/summafy/deploys)
 
-Summarfy is a web application that allows users to simplify and summarize content from articles through an easy-to-use interface. With just the URL of an article, Summarfy generates a concise summary that makes it easier to understand complex information quickly.
+Summafy is a web application that allows users to simplify and summarize content from articles through an easy-to-use interface. With just the URL of an article, Summafy generates a concise summary that makes it easier to understand complex information quickly.
 
 ### Live Application
 
-🔗 [Summarfy Live Demo](https://summarfy.netlify.app/)
+🔗 [Summafy Live Demo](https://Summafy.netlify.app/)
 
 ## Table of Contents
 
@@ -42,8 +42,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/summarfy.git
-   cd summarfy
+   git clone https://github.com/YOUR_GITHUB_USERNAME/Summafy.git
+   cd Summafy
 
    ```
 
@@ -60,3 +60,51 @@ To run this project locally, follow these steps:
    ```
 
 The app will run on http://localhost:5173/ by default.
+
+## Usage
+
+1. Enter an article URL in the input field.
+2. Click the Enter button to generate a summary.
+3. Copy the generated summary to your clipboard using the Copy Summary button.
+4. View, copy, or delete articles in the browsing history.
+
+## Project Structure
+
+summarfy/
+├── public/ # Static assets
+├── src/
+│ ├── assets/ # Icons and images
+│ ├── components/ # Reusable components
+│ ├── services/ # API service and logic
+│ ├── App.css/ # Custom styling and Tailwind classes
+│ ├── App.jsx # Main App component
+│ └── main.jsx # React entry point
+└── README.md # Project documentation
+
+## Screenshots
+
+### Home Page
+
+![Homepage Screenshot](/src/assets/screenshots/Screenshot1.png)
+
+### URL Uploading
+
+![URL Uploading Screenshot](/src/assets/screenshots/Screenshot2.png)
+
+### Summarized Article
+
+![Summarized Article Screenshot](/src/assets/screenshots/Screenshot3.png)
+
+## Contributing
+
+Contributions are welcome! Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature/your-feature-name).
+3. Make your changes and commit them (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/your-feature-name).
+5. Open a pull request.
+
+## License
+
+- This project is open source and available under the MIT License.

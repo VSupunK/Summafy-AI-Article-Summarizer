@@ -21,7 +21,7 @@ const Hero = () => {
       </nav>
 
       <h1 className="head_text green_gradient font-medium text-[50pt] typing-effect">
-        SUMMARFY
+        SUMMAFY
       </h1>
       <h2 className="text-xl font-satoshi tracking-widest">
         EFFICIENTLY SIMPLIFY CONTENT
