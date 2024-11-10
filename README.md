@@ -1,4 +1,4 @@
-# Summafy
+# Summafy <img src="/src/assets/SummafyLogoIco.png" alt="Homepage Screenshot" width="50" />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e7920b55-e9c3-464b-ac18-44dfc968750a/deploy-status)](https://app.netlify.com/sites/summafy/deploys)
 
